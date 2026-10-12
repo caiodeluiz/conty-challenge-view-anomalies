@@ -1,0 +1,314 @@
+{
+  "seed": 20261011,
+  "cases": 60,
+  "legitimate_cases": 40,
+  "suspicious_cases": 20,
+  "false_positives": 1,
+  "false_positive_rate": 0.025,
+  "false_positive_percent": 2.5,
+  "true_positives": 20,
+  "false_negatives": 0,
+  "abstentions": 1,
+  "results": [
+    {
+      "id": "organic-regular-00",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-01",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-02",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-03",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-04",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-05",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-06",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-07",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-08",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-09",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-10",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-11",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-12",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-13",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-14",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-15",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-16",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-17",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-18",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-regular-19",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-viral-00",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-viral-01",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-viral-02",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-viral-03",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-viral-04",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-viral-05",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-viral-06",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-viral-07",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-viral-08",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-viral-09",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-low-information-00",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-low-information-01",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-low-information-02",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-low-information-03",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-low-information-04",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-low-information-05",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-low-information-06",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-low-information-07",
+      "expected": "legitimate",
+      "predicted": "legitimate"
+    },
+    {
+      "id": "organic-low-information-08",
+      "expected": "legitimate",
+      "predicted": "inconclusive"
+    },
+    {
+      "id": "organic-live-counterexample",
+      "expected": "legitimate",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-isolated-00",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-isolated-01",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-isolated-02",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-isolated-03",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-isolated-04",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-isolated-05",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-isolated-06",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-isolated-07",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-isolated-08",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-isolated-09",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-mechanical-00",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-mechanical-01",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-mechanical-02",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-mechanical-03",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-mechanical-04",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-plateau-drop-00",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-plateau-drop-01",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-plateau-drop-02",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-plateau-drop-03",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    },
+    {
+      "id": "suspicious-plateau-drop-04",
+      "expected": "suspicious",
+      "predicted": "suspicious"
+    }
+  ]
+}
